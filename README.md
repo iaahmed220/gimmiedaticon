@@ -5,4 +5,4 @@ During this short series, follow [Jim Nielsen](https://tutsplus.com/authors/jim-
 
 **Available on Tuts+ August 2015**
 
-[View the demo](http://tutsplus.github.io/gimmiedaticon)
+[View the demo](http://tutsplus.github.io/demo/gimmiedaticon)
